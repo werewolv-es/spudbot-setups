@@ -20,6 +20,15 @@
         ],
         "time": "VariableSpud"
     },
+    {
+        "roles": [
+            "Tanner",
+            "Grand Vizier",
+            ["Alchemist", "Witch"],
+            "Villager"
+        ],
+        "time": "VariableSpud"
+    },
 
     /**************************************************************************\
      * 5                                                                      *
@@ -64,6 +73,16 @@
         ],
         "time": ["VariableSpud"]
     },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Villager",
+            "Grand Vizier",
+            "Alchemist",
+            "Protector"
+        ],
+        "time": ["VariableSpud"]
+    },
 
     /**************************************************************************\
      * 6                                                                      *
@@ -101,6 +120,17 @@
             "ParanoidSeer"
         ],
 	/* "disabled": true, */
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Grand Vizier",
+            "Alchemist",
+            "Villager",
+            "Villager",
+            "Illuminati Leader"
+        ],
         "time": ["VariableSpud"]
     },
 
@@ -155,6 +185,18 @@
             "Sleepwalker"
         ],
         "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+    },
+    {
+        "roles": [
+            "Werewolf",
+            ["Seer", "InsaneSeer"],
+            "Grand Vizier",
+            "Alchemist",
+            "Protector"
+            "Villager",
+            "Vampire Master"
+        ],
+        "time": ["VariableSpud"]
     },
 
 
