@@ -77,7 +77,7 @@
         "roles": [
             ["Shapeshifter", "Werewolf"],
             "Villager",
-            "Grand Vizier",
+            "GrandVizier",
             "Alchemist",
             "Protector"
         ],
@@ -125,11 +125,11 @@
     {
         "roles": [
             ["Shapeshifter", "Werewolf"],
-            "Grand Vizier",
+            "GrandVizier",
             "Alchemist",
             "Villager",
             "Villager",
-            "Illuminati Leader"
+            "IlluminatiLeader"
         ],
         "time": ["VariableSpud"]
     },
@@ -190,11 +190,11 @@
         "roles": [
             "Werewolf",
             ["Seer", "InsaneSeer"],
-            "Grand Vizier",
+            "GrandVizier",
             "Alchemist",
             "Protector"
             "Villager",
-            "Vampire Master"
+            "VampireMaster"
         ],
         "time": ["VariableSpud"]
     },
