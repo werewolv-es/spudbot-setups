@@ -23,7 +23,7 @@
     {
         "roles": [
             "Tanner",
-            "Grand Vizier",
+            "GrandVizier",
             ["Alchemist", "Witch"],
             "Villager"
         ],
