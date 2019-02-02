@@ -13,15 +13,6 @@
     },
     {
         "roles": [
-            "Werewolf",
-            "MapleWolf",
-            "MapleWolf",
-            "MapleWolf"
-        ],
-        "time": "VariableSpud"
-    },
-    {
-        "roles": [
             "Tanner",
             "GrandVizier",
             ["Alchemist", "Witch"],
@@ -29,7 +20,15 @@
         ],
         "time": "VariableSpud"
     },
-
+    {
+        "roles": [
+            "Succubus",
+            "Militia",
+            "Shapeshifter",
+            ["Tanner", "EssenceThief"]
+        ],
+        "time": "VariableSpud"
+    },
     /**************************************************************************\
      * 5                                                                      *
     \**************************************************************************/
@@ -265,6 +264,19 @@
             "Villager",
             "EssenceThief",
             "Tanner"
+        ],
+        "time": ["VariableSpud"]
+     },
+     {
+        "roles": [
+            "Shapeshifter",
+            "Bloodletter",
+            "Seer",
+            "InsaneSeer",
+            "Sleepwalker",
+            "Sleepwalker",
+            "Insomniac",
+            "Insomniac"
         ],
         "time": ["VariableSpud"]
      },
