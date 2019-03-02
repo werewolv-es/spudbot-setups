@@ -546,4 +546,28 @@
         ],
         "time": ["VariableSpud"]
      }
+
+    /**************************************************************************\
+     * 15                                                                     *
+    \**************************************************************************/
+    {
+        "roles": [
+            "Shapeshifter",
+            "Shapeshifter",
+            "Werewolf",
+            "Seer",
+            "Beholder",
+            "Gravedigger",
+            "MapleWolf",
+            "Tanner",
+            "Stalker",
+            "Villager",
+            "Villager",
+            "EssenceThief",
+            "Villager",
+            "InsaneSeer",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "MapleWolf"]
+        ],
+        "time": ["VariableSpud"]
+     }
 ]
