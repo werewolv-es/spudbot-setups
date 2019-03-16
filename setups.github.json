@@ -29,6 +29,24 @@
         ],
         "time": "VariableSpud"
     },
+    {
+        "roles": [
+            "Warlock",
+            "Sleepwalker",
+            "Insomniac",
+            "Stalker"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Werewolf",
+            "Tanner",
+            "Protector",
+            "Strongman"
+        ],
+        "time": "VariableSpud"
+    },
     /**************************************************************************\
      * 5                                                                      *
     \**************************************************************************/
@@ -82,7 +100,26 @@
         ],
         "time": ["VariableSpud"]
     },
-
+    {
+        "roles": [
+            "Succubus",
+	    "Furie",
+            "Sleepwalker",
+            "Insomniac",		
+            "Militia",
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+	    "Furie",
+            "WitchHunter",
+            "Protector",		
+            "Militia",
+        ],
+        "time": "VariableSpud"
+    },
     /**************************************************************************\
      * 6                                                                      *
     \**************************************************************************/
