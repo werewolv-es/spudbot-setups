@@ -1,0 +1,21 @@
+[
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Seer",
+            "Beholder",
+            "Gravedigger",
+            "MapleWolf",
+            "Tanner",
+            "Stalker",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager"],
+            "InsaneSeer",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "MapleWolf"]
+        ],
+        "time": ["VariableSpud"]
+     }
+]

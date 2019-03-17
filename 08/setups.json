@@ -1,0 +1,80 @@
+[
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Werewolf",
+            ["Seer", "Harlot"],
+            ["Harlot", "Protector"],
+            ["Gravedigger", "Stalker"],
+            ["InsaneSeer", "Villager"],
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Werewolf",
+            "Villager",
+            "Seer",
+            "Protector",
+            "ParanoidSeer",
+            "NaiveSeer",
+            "InsaneSeer"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Omegawolf",
+            "Seer",
+            "MapleWolf",
+            ["Protector", "Protector", "Harlot"],
+            "Stalker",
+            "Lycan",
+            "Sleepwalker",
+            "Sleepwalker"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Werewolf",
+            "Seer",
+            "Protector",
+            "Villager",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Stalker",
+            "Protector",
+            "Succubus",
+            "Villager",
+            "Villager",
+            "EssenceThief",
+            "Tanner"
+        ],
+        "time": ["VariableSpud"]
+     },
+     {
+        "roles": [
+            "Shapeshifter",
+            "Bloodletter",
+            "Seer",
+            "InsaneSeer",
+            "Sleepwalker",
+            "Sleepwalker",
+            "Insomniac",
+            "Insomniac"
+        ],
+        "time": ["VariableSpud"]
+     }
+]

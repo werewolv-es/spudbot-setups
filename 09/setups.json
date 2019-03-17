@@ -1,0 +1,45 @@
+[
+    {
+        "roles": [
+            "Shapeshifter",
+            "Werewolf",
+            ["Seer", "Villager"],
+            "Harlot",
+            "Protector",
+            ["Stalker", "Villager"],
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Harlot",
+            "Protector",
+            "Stalker",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
+            ["InsaneSeer", "Villager"],
+            [/*"VampireMaster",*/"Omegawolf"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Werewolf",
+            "Harlot",
+            "Protector",
+            "Stalker",
+            "Stalker",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    }
+]

@@ -1,9 +1,12 @@
 # wwes-spudbot-setups
 Setups used for SpeedGameBot on werewolv.es
 
-Setups are defined in the `setups.github.json` file (I'll probably split this out into multiple files at some point), and look something like:
+Setups are defined in the json files within this repo. The bot will attempt to load any .json file within this repo, for convenience these are currently split out into folders denoting how many players the setups handle, though this isn't required and any folder structure will work.
+
+A valid setup file looks something like:
 
 ```json
+[
     {
         "roles": [
             "Harlot",
@@ -16,7 +19,8 @@ Setups are defined in the `setups.github.json` file (I'll probably split this ou
         "bad": ["3219b9c4"],
         "disabled": false,
         "time": ["VariableSpud"]
-    },
+    }
+]
 ```
 
 The important bit is the `roles` array which defines which roles to attempt to put into the game.
@@ -41,4 +45,4 @@ Setups can be marked with `"disabled": true,` to make the bot not attempt to use
 Unlike normal json files, the setups json file can contain comments. in the form of `/* comment */`
 
 
-Pull-Requests or Issues with suggested setups are welcome. It's sage to assume the bot has access to all the roles needed to make any required setup.
+Pull-Requests or Issues with suggested setups are welcome. It's safe to assume the bot has access to all the roles needed to make any required setup.

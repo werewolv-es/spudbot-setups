@@ -1,0 +1,92 @@
+[
+	{
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Seer",
+            "Protector",
+            "Stalker",
+            "Stalker",
+            "Insomniac",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
+            "Lycan"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Seer",
+            "Harlot",
+            "Gravedigger",
+            "Stalker",
+            "Villager",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Seer",
+            "Harlot",
+            "Gravedigger",
+            "MapleWolf",
+            "Stalker",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Stalker",
+            "Werewolf",
+            "Seer",
+            "Protector",
+            "Harlot",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Werewolf", "Werewolf"],
+            "Harlot",
+            "Gravedigger",
+            "Stalker",
+            "Stalker",
+            "Villager",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Omegawolf",
+            "Direwolf",
+            "Seer",
+            "Protector",
+            "Zealot",
+            "Lycan",
+            "Lycan",
+            "Sleepwalker",
+            "Sleepwalker",
+            "Sleepwalker"
+        ],
+        "time": ["VariableSpud"]
+    }
+]

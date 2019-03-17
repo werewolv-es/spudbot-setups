@@ -1,0 +1,48 @@
+[
+    {
+        "roles": [
+            "Harlot",
+            ["Villager", "Stalker"],
+            ["Villager", "Tanner"],
+            "Seer",
+            ["Villager", "Villager", "Villager", "Villager", "MapleWolf"],
+            "Shapeshifter"
+        ],
+        "bad": ["3219b9c4"],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Omegawolf",
+            ["Protector", "Protector", "Protector", "Villager"],
+            "Stalker",
+            ["Villager", "Villager", "Villager", "Villager", "Insomniac"],
+            ["Villager", "Sleepwalker"],
+            "Sleepwalker"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Seer",
+            ["Protector", "Villager", "ChaoticSeer", "Tanner"],
+            "InsaneSeer",
+            "NaiveSeer",
+            "ParanoidSeer"
+        ],
+	/* "disabled": true, */
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "GrandVizier",
+            "Alchemist",
+            "Villager",
+            "Villager",
+            "IlluminatiLeader"
+        ],
+        "time": ["VariableSpud"]
+    }
+]

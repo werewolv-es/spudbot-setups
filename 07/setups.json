@@ -1,0 +1,63 @@
+[
+    {
+        "roles": [
+            ["Seer", "InsaneSeer"],
+            ["Harlot", "Villager"],
+            "Stalker",
+            "Stalker",
+            ["Villager", "Sleepwalker"],
+            ["Protector", "Sleepwalker"],
+            ["Shapeshifter", "Omegawolf"]
+        ],
+        "bad": ["aa3c937c"],
+        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Werewolf",
+            "Seer",
+            ["Harlot", "Protector"],
+            ["Gravedigger", "Villager"],
+            ["Stalker", "Villager"],
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Harlot",
+            "Stalker",
+            "Zealot",
+            "Villager",
+            "Villager",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+    },
+    {
+        "roles": [
+            "Omegawolf",
+            "MapleWolf",
+            ["Protector", "Harlot", "Seer"],
+            "Stalker",
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
+            "Sleepwalker",
+            "Sleepwalker"
+        ],
+        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+    },
+    {
+        "roles": [
+            "Werewolf",
+            ["Seer", "InsaneSeer"],
+            "GrandVizier",
+            "Alchemist",
+            "Protector",
+            "Villager",
+            "VampireMaster"
+        ],
+        "time": ["VariableSpud"]
+    }
+]

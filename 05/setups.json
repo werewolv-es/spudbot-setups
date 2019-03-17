@@ -1,0 +1,72 @@
+[
+    {
+        "roles": [
+            ["Omegawolf", "Shapeshifter"],
+            "Stalker",
+            "Sleepwalker",
+            ["Protector", "Harlot", "Villager", "Sleepwalker"],
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            ["Protector", "Harlot"],
+            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
+            ["Villager", "Sleepwalker"],
+            "Stalker"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Seer",
+            "InsaneSeer",
+            "NaiveSeer",
+            "ParanoidSeer"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Villager",
+            "Stalker",
+            "Villager",
+            "Sleepwalker",
+            "Omegawolf"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            ["Shapeshifter", "Werewolf"],
+            "Villager",
+            "GrandVizier",
+            "Alchemist",
+            "Protector"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Succubus",
+	    "Furie",
+            "Sleepwalker",
+            "Insomniac",
+            "Militia"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+	    "Furie",
+            "WitchHunter",
+            "Protector",
+            "Militia"
+        ],
+        "time": "VariableSpud"
+    }
+]

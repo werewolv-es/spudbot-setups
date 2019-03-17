@@ -1,0 +1,47 @@
+[
+    {
+        "roles": [
+            "Shapeshifter",
+            "Stalker",
+            "Sleepwalker",
+            "Villager"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Tanner",
+            "GrandVizier",
+            ["Alchemist", "Witch"],
+            "Villager"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Succubus",
+            "Militia",
+            "Shapeshifter",
+            ["Tanner", "EssenceThief"]
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Warlock",
+            "Sleepwalker",
+            "Insomniac",
+            "Stalker"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Werewolf",
+            "Tanner",
+            "Protector",
+            "Strongman"
+        ],
+        "time": "VariableSpud"
+    }
+]
