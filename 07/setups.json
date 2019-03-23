@@ -7,10 +7,10 @@
             "Stalker",
             ["Villager", "Sleepwalker"],
             ["Protector", "Sleepwalker"],
-            ["Shapeshifter", "Omegawolf"]
+            "Omegawolf"
         ],
         "bad": ["aa3c937c"],
-        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+        "time": "VariableSpud"
     },
     {
         "roles": [
@@ -22,7 +22,7 @@
             ["Stalker", "Villager"],
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
         ],
-        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+        "time": "VariableSpud"
     },
     {
         "roles": [
@@ -34,7 +34,7 @@
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
         ],
-        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+        "time": "VariableSpud"
     },
     {
         "roles": [
@@ -46,18 +46,18 @@
             "Sleepwalker",
             "Sleepwalker"
         ],
-        "time": ["VariableSpud", "VariableSpud", "VariableSpud", "VariableSpud"]
+        "time": "VariableSpud"
     },
     {
         "roles": [
-            "Werewolf",
-            ["Seer", "InsaneSeer"],
-            "GrandVizier",
-            "Alchemist",
-            "Protector",
+            "Omegawolf",
+            "Tanner",
+            "Stalker",
             "Villager",
-            "VampireMaster"
+            "Sleepwalker",
+            "Sleepwalker",
+            "Harlot"
         ],
-        "time": ["VariableSpud"]
+        "time": "VariableSpud"
     }
 ]
