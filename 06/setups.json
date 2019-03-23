@@ -36,12 +36,23 @@
     },
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
-            "GrandVizier",
-            "Alchemist",
-            "Villager",
-            "Villager",
-            "IlluminatiLeader"
+            "Furie",
+            "Warlock",
+            "Gravedigger",
+            "Gravedigger",
+            "Protector",
+            "Tanner"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Succubus",
+            "Succubus",
+            "MapleWolf",
+            "MapleWolf",
+            "Protector",
+            "Tanner"
         ],
         "time": ["VariableSpud"]
     }
