@@ -10,15 +10,6 @@
     },
     {
         "roles": [
-            "Tanner",
-            "GrandVizier",
-            ["Alchemist", "Witch"],
-            "Villager"
-        ],
-        "time": "VariableSpud"
-    },
-    {
-        "roles": [
             "Succubus",
             "Militia",
             "Shapeshifter",
@@ -38,9 +29,18 @@
     {
         "roles": [
             "Werewolf",
-            "Tanner",
-            "Protector",
+            ["Tanner", "EssenceThief"],
+            ["Protector", "Diseased"],
             "Strongman"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Succubus",
+            "MapleWolf",
+            "MapleWolf",
+            "EssenceThief"
         ],
         "time": "VariableSpud"
     }
