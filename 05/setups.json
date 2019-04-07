@@ -68,5 +68,15 @@
             "Militia"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Werewolf",
+	    "Villager",
+            "Villager",
+            "Protector",
+            "Tanner"
+        ],
+        "time": "VariableSpud"
     }
 ]
