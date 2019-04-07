@@ -55,5 +55,16 @@
             "Tanner"
         ],
         "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Protector",
+            "Shapeshifter",
+            "Tanner"
+        ],
+        "time": ["VariableSpud"]
     }
 ]
