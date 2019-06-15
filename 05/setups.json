@@ -78,5 +78,25 @@
             "Tanner"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Werewolf",
+	    "Villager",
+            "Strongman",
+            "Agitator",
+            "Tanner"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Villager",
+	    "Villager",
+            "Villager",
+            "Courtesan",
+            "Shapeshifter"
+        ],
+        "time": "VariableSpud"
     }
 ]
