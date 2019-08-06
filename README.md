@@ -40,7 +40,12 @@ It's also possible to define roles that are holding items, eg:
 
 And the `items` dict is randomised the same way as roles are described above (eg `["SteelArmour", "WolfPelt"]` would allocate both, but `[["SteelArmour", "WolfPelt"]]` would allocate one or the other. Items can also be "null" to allow randomising no item.)
 
-A role could therefore be quite complex:
+```json
+{"role": "Seer", "items": [ "Crossbow", ["SteelArmour","WolfPelt", null]]},
+```
+Would be a seer with a Crossbow and  1 of "SteelArmour", "WolfPelt" or "No Armour".
+
+A role can also be quite complex:
 ```json
 [{"role": "EssenceThief", "items": ["PlotArmour"]}, {"role": "Tanner", "items": [["SteelArmour", "WolfPelt"]]}],
 ```
