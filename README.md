@@ -16,6 +16,10 @@ A valid setup file looks something like:
             ["Villager", "Villager", "Villager", "Villager", "MapleWolf"],
             "Shapeshifter"
         ],
+        "items": [
+            [["Crossbow", "ShaneProofCrossbow"], "WolfPelt"],
+            ["SteelArmour", null]
+        ],
         "bad": ["3219b9c4"],
         "disabled": false,
         "time": ["VariableSpud"]
@@ -28,6 +32,19 @@ The important bit is the `roles` array which defines which roles to attempt to p
 If a role is defined as just the string (eg `"Harlot"`) then it will put a Harlot in the game.
 
 If a role is defined as an array (eg `["Villager", "Villager", "Villager", "Villager", "MapleWolf"]`) then it will randomly select an entry from this list to add to the game. At the moment there is no way to say "put a MapleWolf in if there isn't one already" but this is something I hope to support in future.
+
+It's also possible to define roles that are holding items, eg:
+```json
+{"role": "Seer", "items": ["SteelArmour"]},
+```
+
+And the `items` dict is randomised the same way as roles are described above (eg `["SteelArmour", "WolfPelt"]` would allocate both, but `[["SteelArmour", "WolfPelt"]]` would allocate one or the other. Items can also be "null" to allow randomising no item.)
+
+A role could therefore be quite complex:
+```json
+[{"role": "EssenceThief", "items": ["PlotArmour"]}, {"role": "Tanner", "items": [["SteelArmour", "WolfPelt"]]}],
+```
+Which would end up being either EssenceThief+PlotArmour, Tanner+SteelArmour, or Tanner+WolfPelt.
 
 
 The bot looks for setup definitions with the same number of defined roles as players (so it won't try to add villagers to a 5-player setup for a 6-player game.)
