@@ -66,5 +66,23 @@
             "Tanner"
         ],
         "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Villager",
+	    "Villager",
+            "Villager",
+            "Sleepwalker",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+	    {"role": "Tanner", "items": ["WolfPelt", "SjonRune"]},
+        ],
+        "items": [
+            "SjonRune",
+            "Crossbow",
+            "FjatRune",
+	    "WolfPelt",
+	    "WolfPelt"
+        ],
+        "time": "VariableSpud"
     }
 ]
