@@ -60,7 +60,7 @@
             {"role": "Lycan", "items": ["SteelArmour"]},
             {"role": "Sleepwalker", "items": ["SteelArmour"]},
         ],
-        "items: [
+        "items": [
             "WarSpear",
             "WarSpear",
             "FjatRune"
