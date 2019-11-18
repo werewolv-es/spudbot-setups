@@ -18,13 +18,13 @@
             "Harlot",
             "Protector",
             "Stalker",
+            "NoviceSeer",
             "Villager",
             "Villager",
-            "Villager",
-            "Villager",
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
-            ["InsaneSeer", "Villager"],
-            [/*"VampireMaster",*/"Omegawolf"]
+            "Lycan",
+            "Sleepwalker",
+            "Tanner",
+            "Omegawolf"
         ],
         "time": ["VariableSpud"]
     },
@@ -36,10 +36,39 @@
             "Protector",
             "Stalker",
             "Stalker",
-            "Villager",
+            "Sleepwalker",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
         ],
         "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Shapeshifter",
+            "Gravedigger",
+            "Protector",
+            "NoviceSeer",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager"
+        ],
+        "time": ["VariableSpud"]
+    },
+    {
+        "roles": [
+            "Shapeshifter",
+            "Direwolf",
+            "Courtesan",
+            "Protector",
+            "NoviceSeer",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager"
+        ],
+        "time": ["VariableSpud"]
     }
+    
 ]
