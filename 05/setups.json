@@ -98,5 +98,22 @@
             "Shapeshifter"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Villager",
+	    "Villager",
+            "Villager",
+            "Sleepwalker",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+        ],
+        "items": [
+            "SjonRune",
+            "Crossbow",
+            "FjatRune",
+	    "WolfPelt",
+	    "WolfPelt"
+        ],
+        "time": "VariableSpud"
     }
 ]
