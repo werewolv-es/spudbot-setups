@@ -47,7 +47,7 @@
     {
         "roles": [
             {"role": "MapleWolf", "items": ["DisruptionOrb"]},
-            {"role": "Succubus", "items": ["PoisonDarts"]},
+            {"role": "Succubus", "items": ["PoisonedDarts"]},
             "Sleepwalker",
             "Sleepwalker"
         ],
