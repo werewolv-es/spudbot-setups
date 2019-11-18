@@ -43,5 +43,14 @@
             "EssenceThief"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            {"role": "MapleWolf", "items": ["DisruptionOrb"]},
+            {"role": "Succubus", "items": ["PoisonDarts"]},
+            "Sleepwalker",
+            "Sleepwalker"
+        ],
+        "time": "VariableSpud"
     }
 ]
