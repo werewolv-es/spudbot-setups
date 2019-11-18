@@ -4,14 +4,14 @@
             ["Omegawolf", "Shapeshifter"],
             "Stalker",
             "Sleepwalker",
-            ["Protector", "Harlot", "Villager", "Sleepwalker"],
+            ["Protector", "Harlot"],
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
         ],
         "time": "VariableSpud"
     },
     {
         "roles": [
-            ["Shapeshifter", "Werewolf"],
+            "Shapeshifter",
             ["Protector", "Harlot"],
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
             ["Villager", "Sleepwalker"],
@@ -36,16 +36,6 @@
             "Villager",
             "Sleepwalker",
             "Omegawolf"
-        ],
-        "time": ["VariableSpud"]
-    },
-    {
-        "roles": [
-            ["Shapeshifter", "Werewolf"],
-            "Villager",
-            "GrandVizier",
-            "Alchemist",
-            "Protector"
         ],
         "time": ["VariableSpud"]
     },
