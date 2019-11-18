@@ -52,5 +52,19 @@
             "Sleepwalker"
         ],
         "time": "VariableSpud"
-    }
+    },
+    {
+        "roles": [
+            {"role": "NoviceSeer", "items": ["HeavyShield"]},
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+            {"role": "Lycan", "items": ["SteelArmour"]},
+            {"role": "Sleepwalker", "items": ["SteelArmour"]},
+        ],
+        "items: [
+            "WarSpear",
+            "WarSpear",
+            "FjatRune"
+        ]
+        "time": "VariableSpud"
+    },
 ]
