@@ -42,7 +42,7 @@
     {
         "roles": [
             "Succubus",
-	    "Furie",
+            "Furie",
             "Stalker",
             "Stalker",
             "Militia"
@@ -52,7 +52,7 @@
     {
         "roles": [
             "Shapeshifter",
-	    "Furie",
+            "Furie",
             "WitchHunter",
             "Protector",
             "Militia"
@@ -62,7 +62,7 @@
     {
         "roles": [
             "Werewolf",
-	    "Villager",
+            "Villager",
             "Villager",
             "Protector",
             "Tanner"
@@ -72,7 +72,7 @@
     {
         "roles": [
             "Werewolf",
-	    "Villager",
+            "Villager",
             "Strongman",
             "Agitator",
             "Tanner"
@@ -82,7 +82,7 @@
     {
         "roles": [
             "Villager",
-	    "Villager",
+            "Villager",
             "Villager",
             "Courtesan",
             "Shapeshifter"
@@ -92,17 +92,17 @@
     {
         "roles": [
             "Villager",
-	    "Villager",
+            "Villager",
             "Villager",
             "Sleepwalker",
-            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]}
         ],
         "items": [
             "SjonRune",
             "Crossbow",
             "FjatRune",
-	    "WolfPelt",
-	    "WolfPelt"
+            "WolfPelt",
+            "WolfPelt"
         ],
         "time": "VariableSpud"
     }

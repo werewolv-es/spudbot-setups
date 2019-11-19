@@ -31,7 +31,7 @@
             "NaiveSeer",
             "ParanoidSeer"
         ],
-	/* "disabled": true, */
+    /* "disabled": true, */
         "time": ["VariableSpud"]
     },
     {
@@ -40,7 +40,7 @@
             "Warlock",
             "Gravedigger",
             "Gravedigger",
-	    "Gravedigger",
+        "Gravedigger",
             "Protector"
         ],
         "time": ["VariableSpud"]
@@ -70,18 +70,18 @@
     {
         "roles": [
             "Villager",
-	    "Villager",
+            "Villager",
             "Villager",
             "Sleepwalker",
             {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
-	    {"role": "Tanner", "items": ["WolfPelt", "SjonRune"]},
+            {"role": "Tanner", "items": ["WolfPelt", "SjonRune"]}
         ],
         "items": [
             "SjonRune",
             "Crossbow",
             "FjatRune",
-	    "WolfPelt",
-	    "WolfPelt"
+            "WolfPelt",
+            "WolfPelt"
         ],
         "time": "VariableSpud"
     }
