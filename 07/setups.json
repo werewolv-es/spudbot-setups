@@ -59,5 +59,25 @@
             "Harlot"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Sleepwalker",
+            "Sleepwalker",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence", "IronCollar"]},
+            {"role": "Tanner", "items": ["WolfPelt", "SjonRune"]}
+        ],
+        "items": [
+            "SjonRune",
+            "Crossbow",
+            "FjatRune",
+            "WolfPelt",
+            "WolfPelt",
+            "TofrarRune"
+        ],
+        "time": "VariableSpud"
     }
 ]

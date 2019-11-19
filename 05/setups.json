@@ -105,5 +105,15 @@
             "WolfPelt"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            {"role": "Protector", "items": ["WarSpear"]},
+            {"role": "Villager", "items": ["AmuletOfPeace"]},
+            {"role": "Villager", "items": ["SjonRune"]},
+            {"role": "Villager", "items": ["WolfPelt"]},
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence", "IronCollar"]}
+        ],
+        "time": "VariableSpud"
     }
 ]
