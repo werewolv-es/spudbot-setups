@@ -84,5 +84,42 @@
             "WolfPelt"
         ],
         "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Villager",
+            "Insomniac",
+            "NoviceSeer",
+            "Sleepwalker",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+            {"role": "BloodSeer", "items": ["PoisonedDarts"]}
+        ],
+        "items": [
+            "SjonRune",
+            "Crossbow",
+            "FjatRune",
+            "WolfPelt",
+            "WolfPelt"
+        ],
+        "time": "VariableSpud"
+    },
+    {
+        "roles": [
+            "Villager",
+            "Insomniac",
+            "Thief",
+            "Sleepwalker",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]},
+            {"role": "BloodSeer", "items": ["PoisonedDarts"]}
+        ],
+        "items": [
+            "SjonRune",
+            "Crossbow",
+            "FjatRune",
+            "WolfPelt",
+            "WolfPelt",
+            "PotionOfAcquiescence"
+        ],
+        "time": "VariableSpud"
     }
 ]
