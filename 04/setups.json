@@ -1,24 +1,6 @@
 [
     {
         "roles": [
-            "Shapeshifter",
-            "Stalker",
-            "Sleepwalker",
-            "Villager"
-        ],
-        "time": "VariableSpud"
-    },
-    {
-        "roles": [
-            "Succubus",
-            "Militia",
-            "Shapeshifter",
-            ["Tanner", "EssenceThief"]
-        ],
-        "time": "VariableSpud"
-    },
-    {
-        "roles": [
             "Warlock",
             "Sleepwalker",
             "Insomniac",
