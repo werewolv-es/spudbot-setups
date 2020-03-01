@@ -14,3 +14,4 @@ jobs:
         uses: joelwmale/webhook-action@master
         env:
           WEBHOOK_URL: ${{ secrets.UPDATE_URL }}
+          data: "{'commit': '${{ GITHUB_SHA }}'}"
