@@ -6,6 +6,11 @@ jobs:
   testSetups:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Test Loading Setups
-      run: php test.php
+      - name: Checkout Repo
+        uses: actions/checkout@v1
+      - name: Test Loading Setups
+        run: php test.php
+      - name: Update bot
+        uses: joelwmale/webhook-action@master
+        env:
+          WEBHOOK_URL: ${{ secrets.UPDATE_URL }}
