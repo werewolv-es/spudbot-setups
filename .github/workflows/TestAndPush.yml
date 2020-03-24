@@ -1,6 +1,8 @@
 name: TestAndPush
 
-on: [push]
+on:
+  push:
+    branches: [site]
 
 jobs:
   testSetups:
