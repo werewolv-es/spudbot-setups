@@ -2,7 +2,7 @@ name: TestAndPush
 
 on:
   push:
-    branches: [site]
+    branches: [master]
 
 jobs:
   testSetups:
