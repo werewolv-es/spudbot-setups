@@ -37,10 +37,10 @@
     {
         "roles": [
             "Furie",
-            "Warlock",
+            "Furie",
             "Gravedigger",
             "Gravedigger",
-        "Gravedigger",
+            "Gravedigger",
             "Protector"
         ],
         "time": ["VariableSpud"]
