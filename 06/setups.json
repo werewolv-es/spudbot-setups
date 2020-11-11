@@ -8,8 +8,7 @@
             ["Villager", "Villager", "Villager", "Villager", "MapleWolf"],
             "Shapeshifter"
         ],
-        "bad": ["3219b9c4"],
-        "time": ["VariableSpud"]
+        "bad": ["3219b9c4"]
     },
     {
         "roles": [
@@ -19,10 +18,10 @@
             ["Villager", "Villager", "Villager", "Villager", "Insomniac"],
             ["Villager", "Sleepwalker"],
             "Sleepwalker"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
+    /* "disabled": true, */
         "roles": [
             "Shapeshifter",
             "Seer",
@@ -30,9 +29,7 @@
             "InsaneSeer",
             "NaiveSeer",
             "ParanoidSeer"
-        ],
-    /* "disabled": true, */
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -42,8 +39,7 @@
             "Gravedigger",
             "Gravedigger",
             "Protector"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -53,8 +49,7 @@
             "MapleWolf",
             "Protector",
             "Tanner"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -64,8 +59,7 @@
             "Protector",
             "Shapeshifter",
             "Tanner"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -82,8 +76,7 @@
             "FjatRune",
             "WolfPelt",
             "WolfPelt"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -100,8 +93,7 @@
             "FjatRune",
             "WolfPelt",
             "WolfPelt"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -119,7 +111,6 @@
             "WolfPelt",
             "WolfPelt",
             "PotionOfAcquiescence"
-        ],
-        "time": "VariableSpud"
+        ]
     }
 ]

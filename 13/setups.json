@@ -14,8 +14,7 @@
             ["Villager", "InsaneSeer"],
             "NaiveSeer",
             "ParanoidSeer"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -32,7 +31,6 @@
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
             "InsaneSeer",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "MapleWolf"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     }
 ]

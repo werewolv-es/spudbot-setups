@@ -9,8 +9,7 @@
             ["InsaneSeer", "Villager"],
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -22,8 +21,7 @@
             "ParanoidSeer",
             "NaiveSeer",
             "InsaneSeer"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -35,8 +33,7 @@
             "Lycan",
             "Sleepwalker",
             "Sleepwalker"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -48,8 +45,7 @@
             "Villager",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -61,8 +57,7 @@
             "Villager",
             "EssenceThief",
             "Tanner"
-        ],
-        "time": ["VariableSpud"]
+        ]
      },
      {
         "roles": [
@@ -74,7 +69,6 @@
             "Sleepwalker",
             "Insomniac",
             "Insomniac"
-        ],
-        "time": ["VariableSpud"]
+        ]
      }
 ]

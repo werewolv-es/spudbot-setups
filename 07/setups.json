@@ -9,8 +9,7 @@
             ["Protector", "Sleepwalker"],
             "Omegawolf"
         ],
-        "bad": ["aa3c937c"],
-        "time": "VariableSpud"
+        "bad": ["aa3c937c"]
     },
     {
         "roles": [
@@ -21,8 +20,7 @@
             ["Gravedigger", "Villager"],
             ["Stalker", "Villager"],
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -33,8 +31,7 @@
             "Villager",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -45,8 +42,7 @@
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
             "Sleepwalker",
             "Sleepwalker"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -57,8 +53,7 @@
             "Sleepwalker",
             "Sleepwalker",
             "Harlot"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -77,7 +72,6 @@
             "WolfPelt",
             "WolfPelt",
             "TofrarRune"
-        ],
-        "time": "VariableSpud"
+        ]
     }
 ]

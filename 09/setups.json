@@ -10,8 +10,7 @@
             "Villager",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -25,8 +24,7 @@
             "Sleepwalker",
             "Tanner",
             "Omegawolf"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -39,8 +37,7 @@
             "Sleepwalker",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -53,8 +50,7 @@
             "Villager",
             "Villager",
             "Villager"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -67,8 +63,7 @@
             "Villager",
             "Villager",
             "Villager"
-        ],
-        "time": ["VariableSpud"]
+        ]
     }
-    
+
 ]

@@ -6,8 +6,7 @@
             "Sleepwalker",
             ["Protector", "Harlot"],
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -16,8 +15,7 @@
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
             ["Villager", "Sleepwalker"],
             "Stalker"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -26,8 +24,7 @@
             "InsaneSeer",
             "NaiveSeer",
             "ParanoidSeer"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -36,8 +33,7 @@
             "Villager",
             "Sleepwalker",
             "Omegawolf"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -46,8 +42,7 @@
             "Stalker",
             "Stalker",
             "Militia"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -56,8 +51,7 @@
             "WitchHunter",
             "Protector",
             "Militia"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -66,8 +60,7 @@
             "Villager",
             "Protector",
             "Tanner"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -76,8 +69,7 @@
             "Strongman",
             "Agitator",
             "Tanner"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -86,8 +78,7 @@
             "Villager",
             "Courtesan",
             "Shapeshifter"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -103,8 +94,7 @@
             "FjatRune",
             "WolfPelt",
             "WolfPelt"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -113,7 +103,6 @@
             {"role": "Villager", "items": ["SjonRune"]},
             {"role": "Villager", "items": ["WolfPelt"]},
             {"role": "Shapeshifter", "items": ["PotionOfAcquiescence", "IronCollar"]}
-        ],
-        "time": "VariableSpud"
+        ]
     }
 ]

@@ -5,8 +5,7 @@
             "Sleepwalker",
             "Insomniac",
             "Stalker"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -14,8 +13,7 @@
             ["Tanner", "EssenceThief"],
             ["Protector", "Diseased"],
             "Strongman"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -23,8 +21,7 @@
             "MapleWolf",
             "MapleWolf",
             "EssenceThief"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -32,8 +29,7 @@
             {"role": "Succubus", "items": ["PoisonedDarts"]},
             "Sleepwalker",
             "Sleepwalker"
-        ],
-        "time": "VariableSpud"
+        ]
     },
     {
         "roles": [
@@ -46,7 +42,6 @@
             "WarSpear",
             "WarSpear",
             "FjatRune"
-        ],
-        "time": "VariableSpud"
+        ]
     }
 ]

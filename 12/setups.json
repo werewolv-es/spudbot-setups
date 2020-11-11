@@ -13,8 +13,7 @@
             "Sleepwalker",
             "Sleepwalker",
             "Sleepwalker"
-        ],
-        "time": ["VariableSpud"]
+        ]
     },
     {
         "roles": [
@@ -30,7 +29,6 @@
             "Villager",
             "Villager",
             ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ],
-        "time": ["VariableSpud"]
+        ]
     }
 ]
