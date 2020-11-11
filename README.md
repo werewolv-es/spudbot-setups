@@ -22,7 +22,10 @@ A valid setup file looks something like:
         ],
         "bad": ["3219b9c4"],
         "disabled": false,
-        "time": ["VariableSpud"]
+        "time": ["VariableSpud"],
+        "roleAnnouncement": ["Full"],
+        "itemAnnouncement": ["Full"],
+        "itemDistribution": ["Random"]
     }
 ]
 ```
@@ -56,6 +59,12 @@ The bot looks for setup definitions with the same number of defined roles as pla
 
 
 The setup can also be told to use a specific time setting (One of: `"VariableSpud"`, `"FourOne"`, `"EightTwo"`, `"TenFive"`) or an array of times (`["VariableSpud", "FourOne"]`) to make it pick a random one.
+
+The setup can also be told to use a specific roleAnnouncement setting (One of: `"Full"`, `"FactionCounts"`, `"Factions"`, `"None"`) or an array of settings (`["Full", "Full", "None"]`) to make it pick a random one.
+
+The setup can also be told to use a specific itemAnnouncement setting (One of: `"Full"`, `"None"`) or an array of settings (`["Full", "Full", "None"]`) to make it pick a random one.
+
+The setup can also be told to use a specific itemDistribution setting (One of: `"Random"`, `"Even"`) or an array of settings (`["Random", "Even", "Even"]`) to make it pick a random one.
 
 
 Themes can't be set for a setup, the bot will always randomise the theme from a list of themes it has access to.
