@@ -114,7 +114,7 @@
             {"role": "Warlock", "items": ["PotionOfWeakness", "WarSpear"]}
         ],
         "items": [
-            ["TofrarRune", "TofrarRune", "TofrarRune", "PotionOfWeakness", "PotionOfWeakness"],
+            ["TofrarRune", "TofrarRune", "TofrarRune", "PotionOfWeakness", "PotionOfWeakness"]
         ],
         "itemDistribution": ["Even"]
     }
