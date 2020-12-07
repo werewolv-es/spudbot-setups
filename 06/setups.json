@@ -112,5 +112,15 @@
             "WolfPelt",
             "PotionOfAcquiescence"
         ]
+    },
+    {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Elder",
+            {"role": "Shapeshifter", "items": ["PotionOfClarity", "WarSpear"]},
+            {"role": "Protector", "items": ["ManaclesOfSpite"]}
+        ]
     }
 ]
