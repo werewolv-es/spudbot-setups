@@ -112,6 +112,10 @@
             "Villager",
             "Protector",
             {"role": "Warlock", "items": ["PotionOfWeakness", "WarSpear"]}
-        ]
+        ],
+        "items": [
+            ["TofrarRune", "TofrarRune", "TofrarRune", "PotionOfWeakness", "PotionOfWeakness"],
+        ],
+        "itemDistribution": ["Even"]
     }
 ]
