@@ -104,5 +104,14 @@
             {"role": "Villager", "items": ["WolfPelt"]},
             {"role": "Shapeshifter", "items": ["PotionOfAcquiescence", "IronCollar"]}
         ]
+    },
+    {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Protector",
+            {"role": "Warlock", "items": ["PotionOfWeakness", "WarSpear"]}
+        ]
     }
 ]
