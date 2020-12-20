@@ -1,24 +1,6 @@
 [
     {
         "roles": [
-            ["Omegawolf", "Shapeshifter"],
-            "Stalker",
-            "Sleepwalker",
-            ["Protector", "Harlot"],
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"]
-        ]
-    },
-    {
-        "roles": [
-            "Shapeshifter",
-            ["Protector", "Harlot"],
-            ["Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Villager", "Tanner"],
-            ["Villager", "Sleepwalker"],
-            "Stalker"
-        ]
-    },
-    {
-        "roles": [
             "Shapeshifter",
             "Seer",
             "InsaneSeer",
@@ -77,7 +59,7 @@
             "Villager",
             "Villager",
             "Courtesan",
-            "Shapeshifter"
+            {"role": "Shapeshifter", "items": ["WarSpear"]}
         ]
     },
     {
