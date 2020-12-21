@@ -73,5 +73,20 @@
             "WolfPelt",
             "TofrarRune"
         ]
+    },
+        {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            "Werewolf",
+            "Werewolf"
+        ],
+        "items": [
+            ["SjonRune", "SjonRune", "WolfPelt", "WolfPelt", "WolfPelt", "Crossbow", "Crossbow"]
+        ],
+        "itemDistribution": ["Even"]
     }
 ]
