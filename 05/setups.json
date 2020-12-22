@@ -99,5 +99,22 @@
             ["TofrarRune", "TofrarRune", "TofrarRune", "PotionOfWeakness", "PotionOfWeakness"]
         ],
         "itemDistribution": ["Even"]
+    },
+    {
+        "roles": [
+            "Villager",
+            "Villager",
+            "Villager",
+            "Villager",
+            {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]}
+        ],
+        "items": [
+            [
+                "WolfPelt", "WolfPelt", "SjonRune", "Crossbow", "Crossbow",
+                "SteelArmour", "WolfPelt", "SjonRune", "TofrarRune", "WarSpear"
+            ]
+        ],
+        "itemDistribution": ["Even"]
     }
+    
 ]
