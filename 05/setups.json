@@ -96,7 +96,11 @@
             {"role": "Warlock", "items": ["PotionOfWeakness", "WarSpear"]}
         ],
         "items": [
-            ["TofrarRune", "TofrarRune", "TofrarRune", "PotionOfWeakness", "PotionOfWeakness"]
+            "TofrarRune",
+            "TofrarRune",
+            "TofrarRune",
+            "PotionOfWeakness",
+            "PotionOfWeakness"
         ],
         "itemDistribution": ["Even"]
     },
@@ -109,12 +113,19 @@
             {"role": "Shapeshifter", "items": ["PotionOfAcquiescence"]}
         ],
         "items": [
-            [
-                "WolfPelt", "WolfPelt", "SjonRune", "Crossbow", "Crossbow",
-                "SteelArmour", "WolfPelt", "SjonRune", "TofrarRune", "WarSpear"
-            ]
+            "WolfPelt",
+            "WolfPelt",
+            "SjonRune",
+            "Crossbow",
+            "Crossbow",
+
+            "SteelArmour",
+            "WolfPelt",
+            "SjonRune",
+            "TofrarRune",
+            "WarSpear"
         ],
         "itemDistribution": ["Even"]
     }
-    
+
 ]

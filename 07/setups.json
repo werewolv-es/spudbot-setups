@@ -72,7 +72,8 @@
             "WolfPelt",
             "WolfPelt",
             "TofrarRune"
-        ]
+        ],
+        "itemDistribution": ["Even"]
     },
         {
         "roles": [
@@ -85,7 +86,13 @@
             "Werewolf"
         ],
         "items": [
-            ["SjonRune", "SjonRune", "WolfPelt", "WolfPelt", "WolfPelt", "Crossbow", "Crossbow"]
+            "SjonRune",
+            "SjonRune",
+            "WolfPelt",
+            "WolfPelt",
+            "WolfPelt",
+            "Crossbow",
+            "Crossbow"
         ],
         "itemDistribution": ["Even"]
     }

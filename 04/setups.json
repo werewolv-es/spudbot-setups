@@ -42,6 +42,7 @@
             "WarSpear",
             "WarSpear",
             "FjatRune"
-        ]
+        ],
+        "itemDistribution": ["Even"]
     }
 ]

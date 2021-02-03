@@ -76,7 +76,8 @@
             "FjatRune",
             "WolfPelt",
             "WolfPelt"
-        ]
+        ],
+        "itemDistribution": ["Even"]
     },
     {
         "roles": [
@@ -93,7 +94,8 @@
             "FjatRune",
             "WolfPelt",
             "WolfPelt"
-        ]
+        ],
+        "itemDistribution": ["Even"]
     },
     {
         "roles": [
@@ -111,7 +113,8 @@
             "WolfPelt",
             "WolfPelt",
             "PotionOfAcquiescence"
-        ]
+        ],
+        "itemDistribution": ["Even"]
     },
     {
         "roles": [
