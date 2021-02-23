@@ -20,12 +20,18 @@ A valid setup file looks something like:
             [["Crossbow", "ShaneProofCrossbow"], "WolfPelt"],
             ["SteelArmour", null]
         ],
+        "auras": [
+            ["Crippled", "Maimed", "Concussed"],
+            ["Inebriated", null]
+        ],
         "bad": ["3219b9c4"],
         "disabled": false,
         "time": ["VariableSpud"],
         "roleAnnouncement": ["Full"],
         "itemAnnouncement": ["Full"],
-        "itemDistribution": ["Random"]
+        "itemDistribution": ["Random"],
+        "auraAnnouncement": ["Full"],
+        "auraDistribution": ["Random"]
     }
 ]
 ```
@@ -48,6 +54,11 @@ And the `items` dict is randomised the same way as roles are described above (eg
 ```
 Would be a seer with a Crossbow and  1 of "SteelArmour", "WolfPelt" or "No Armour".
 
+You can also give roles auras, eg:
+```json
+{"role": "Seer", "auras": ["Inebriated"]},
+```
+
 A role can also be quite complex:
 ```json
 [{"role": "EssenceThief", "items": ["PlotArmour"]}, {"role": "Tanner", "items": [["SteelArmour", "WolfPelt"]]}],
@@ -66,6 +77,9 @@ The setup can also be told to use a specific itemAnnouncement setting (One of: `
 
 The setup can also be told to use a specific itemDistribution setting (One of: `"Random"`, `"Even"`) or an array of settings (`["Random", "Even", "Even"]`) to make it pick a random one.
 
+The setup can also be told to use a specific auraAnnouncement setting (One of: `"Full"`, `"None"`) or an array of settings (`["Full", "Full", "None"]`) to make it pick a random one.
+
+The setup can also be told to use a specific auraDistribution setting (One of: `"Random"`, `"Even"`) or an array of settings (`["Random", "Even", "Even"]`) to make it pick a random one.
 
 Themes can't be set for a setup, the bot will always randomise the theme from a list of themes it has access to.
 
