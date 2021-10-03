@@ -126,6 +126,14 @@
             "WarSpear"
         ],
         "itemDistribution": ["Even"]
+    },
+    {
+        "roles": [
+            "Strongman",
+            "Seer",
+            "Villager",
+            {"role": "Inquisitor", "auras": ["Damned"]},
+            "Werewolf",
+        ],
     }
-
 ]
