@@ -134,6 +134,6 @@
             {"role": "Adjudicator", "auras": ["Spellbound"]},
             {"role": "Inquisitor", "auras": ["Damned"]},
             {"role": "Werewolf", "auras": ["Weakened"]}
-        ],
+        ]
     }
 ]
