@@ -130,10 +130,10 @@
     {
         "roles": [
             "Strongman",
-            "Seer",
             "Villager",
+            {"role": "Adjudicator", "auras": ["Spellbound"]},
             {"role": "Inquisitor", "auras": ["Damned"]},
-            "Werewolf",
+            {"role": "Werewolf", "auras": ["Weakened"]}
         ],
     }
 ]
